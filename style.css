@@ -137,7 +137,7 @@
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
-.list-item__delete-icon {
+.list-item__delete-icon:hover {
   transform: rotateZ(0);
 }
 
